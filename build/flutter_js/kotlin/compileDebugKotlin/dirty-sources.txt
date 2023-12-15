@@ -1,0 +1,3 @@
+/Users/telrdev/Downloads/flutter-2/.pub-cache/hosted/pub.dartlang.org/flutter_js-0.5.0+6/android/src/main/kotlin/io/abner/flutter_js/JSEngine.kt
+/Users/telrdev/Downloads/flutter-2/.pub-cache/hosted/pub.dartlang.org/flutter_js-0.5.0+6/android/src/main/kotlin/io/abner/flutter_js/FlutterJsPlugin.kt
+/Users/telrdev/Downloads/flutter-2/.pub-cache/hosted/pub.dartlang.org/flutter_js-0.5.0+6/android/src/main/kotlin/io/abner/flutter_js/flutter_js/FlutterJsPlugin.kt
